@@ -23,7 +23,7 @@ I’m currently seeking a full-time Data Analyst role (remote or onsite in Israe
 - **Python:** pandas, numpy, matplotlib, plotly  
 - **SQL:** analytical queries, joins, subqueries, window functions  
 - **Analytics:** EDA, marketing & product metrics, cohort analysis, retention, A/B testing  
-- **Visualization:** Tableau, Plotly dashboards  
+- **Visualization:** Tableau, Plotly-based interactive dashboards 
 - **Other tools:** Excel, Jupyter Notebook, Git/GitHub  
 
 ---
