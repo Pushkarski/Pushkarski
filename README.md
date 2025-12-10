@@ -2,9 +2,9 @@
 
 **"Where structure meets curiosity - that’s where insights are born."**
 
-I'm a junior data analyst with a background in business operations and people management.  
+I'm a data analyst with a background in business operations and people management.  
 As a former team lead, I always wanted to understand how to make better decisions using data.  
-This curiosity eventually grew into a new profession: I completed the TripleTen Data Analytics program and now use analytics to answer real business questions - and honestly, it still feels a bit like magic.
+This curiosity eventually grew into a new profession: I completed the TripleTen Data Analytics program, now use analytics to answer real business questions.
 
 I’m currently seeking a full-time Data Analyst role (remote or onsite in Israel).
 
@@ -28,29 +28,22 @@ I’m currently seeking a full-time Data Analyst role (remote or onsite in Israe
 
 ---
 
-### 📌 Selected Projects
+## 📌 Selected Projects
 
-#### **1. Product & Financial Analysis - AtliQ Hardware**
-Evaluated financial performance at total and product levels and built an interactive Tableau dashboard.  
-**Tools:** SQL, Python, Tableau  
-**Dashboard:** *link will be added*  
-**Repository:** *link will be added*  
-
-#### **2. Yandex.Afisha - Marketing Analytics**
-Analyzed user behavior, marketing spend efficiency, LTV, CAC, ROI, conversion delays, and retention.  
-Provided recommendations for more effective budget allocation.  
-**Tools:** Python, Pandas, Matplotlib, Seaborn, Plotly  
-**Repository:** *link will be added*  
-
-#### **3. A/B Testing & Hypothesis Prioritization**
-Prioritized hypotheses using ICE/RICE, conducted full A/B test analysis (raw and filtered), identified anomalies, and evaluated statistical significance.  
-Delivered a data-driven recommendation for product and marketing teams.  
-**Tools:** Python, pandas, numpy, scipy, plotly  
-**Repository:** *link will be added*  
+- **Financial Analytics – AtliQ Hardware:** profitability, unit economics, Tableau dashboard.  
+- **Marketing Analytics – Yandex.Afisha:** conversion funnels, retention, LTV/CAC/ROI.  
+- **A/B Testing:** hypothesis prioritization (ICE/RICE) + statistical evaluation.  
+- **ML Classification – Megaline:** Random Forest model achieving >0.75 accuracy.  
+- **Streamlit Dashboard – Used Cars:** price & listing duration analysis.  
+- **Superstore Returns – Tableau Storytelling:** root-cause analysis of returns.  
+- **Instacart EDA:** customer order patterns, duplicates, missing values, distributions.  
+- **Airbnb Spreadsheet Analysis:** top neighborhoods & listing types for revenue.
 
 ---
 
 ### 📫 Find me here
 - **LinkedIn:** www.linkedin.com/in/pushkarskaya  
-- **GitHub Portfolio:** check out the pinned projects below  
-- **Resume:** coming soon  
+- **GitHub Portfolio:** https://github.com/Pushkarski/TripleTen_projects  
+- **Resume:** coming soon
+
+
