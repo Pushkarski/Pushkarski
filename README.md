@@ -42,7 +42,7 @@ I’m currently seeking a full-time Data Analyst role (remote or onsite in Israe
 ---
 
 ### 📫 Find me here
-- **LinkedIn:** www.linkedin.com/in/pushkarskaya  
+- **LinkedIn:** www.linkedin.com/in/pushkarski
 - **GitHub Portfolio:** https://github.com/Pushkarski/TripleTen_projects  
 - **Resume:** coming soon
 
